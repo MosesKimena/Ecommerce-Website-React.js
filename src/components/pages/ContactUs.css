@@ -1,0 +1,14 @@
+.navbar {
+    background: linear-gradient(90deg, rgb(28, 27, 27) 0%, rgb(26, 23, 23) 100%);
+    color: #ffffff;
+}
+
+footer {
+    position: absolute;
+    left:0;
+    bottom:0;
+    right:0;
+    background: linear-gradient(90deg, rgb(28, 27, 27) 0%, rgb(26, 23, 23) 100%);
+    color: #ffffff;
+    padding-top: 20px;
+}

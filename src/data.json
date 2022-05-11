@@ -1,0 +1,60 @@
+{
+    "products":[
+        {
+            "_id":"iphone13",
+            "title":"Iphone 13",
+            "image":"/images/iphone13.jpg",
+            "description": "Latest Iphone",
+            "price": 6000,
+            "Color": "Blue, Red",
+            "availableSizes": ["Phones"]
+        },
+        {
+            "_id":"macbookpro",
+            "title":"Macbook Pro",
+            "image":"/images/macbookpro.jpg",
+            "description": "Latest Macbook",
+            "price": 9000,
+            "Color": "white",
+            "availableSizes": ["Computers"]
+        },
+        {
+            "_id":"imac",
+            "title":"Imac",
+            "image":"/images/imac.jpg",
+            "description": "Latest Imac",
+            "price": 10000,
+            "Color": "white",
+            "availableSizes": ["Computers"]
+        },
+        {
+            "_id":"applewatch",
+            "title":"Apple Watch Series 7 GPS",
+            "image":"/images/applewatch.jpg",
+            "description": "Latest Apple watch",
+            "price": 5000,
+            "Color": "Blue, pink",
+            "availableSizes": ["Watches"]
+        },
+        {
+            "_id":"promax",
+            "title":"Iphone 13 Pro Max",
+            "image":"/images/promax.jpg",
+            "description": "Latest Macbook",
+            "price": 9000,
+            "Color": "white",
+            "availableSizes": ["Phones"]
+        },
+        {
+            "_id":"samsung",
+            "title":"Samsung Galaxy S21 Ultra",
+            "image":"/images/samsung.jpg",
+            "description": "Latest Samsung",
+            "price": 5800,
+            "Color": "white",
+            "availableSizes": ["Phones"]
+        }
+        
+
+    ]
+}
